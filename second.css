@@ -1,0 +1,48 @@
+
+
+form{
+    height: 30em;
+    width: 25em;
+    padding: 10px 25px;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: 10px 10px 50px -20px #252526;
+    border-radius: 10;
+}
+
+.userdata{
+    display: block;
+    height: 30px;
+    width: 300px;
+    border-style: solid;
+    border-width: 1px;
+    padding-left: 10px;
+    margin:40px 25px;
+}
+
+button{
+    border-radius: 10px;
+    background-color: #f9a825;
+    border-style: none;
+    height: 40px;
+    width: 180px;
+    color:white;
+    margin: 0 auto;
+}
+
+form a{
+    text-decoration: underline;
+    color: blue;
+}
+form p{
+    font-size: 35px
+}
+
+#lol{
+    font-size: 16px;
+}
+
+
+.signUp{
+    visibility: hidden;
+}
